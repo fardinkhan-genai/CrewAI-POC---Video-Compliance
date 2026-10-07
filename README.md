@@ -175,5 +175,5 @@ The main project extends this concept with a larger multi-modal architecture for
 
 **Fardin Khan**
 
-Data Science / Engineer AI 
+Data Science / AI Engineer
 #
