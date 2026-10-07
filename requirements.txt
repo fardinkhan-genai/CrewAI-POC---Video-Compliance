@@ -1,0 +1,4 @@
+crewai
+guardrails-ai
+pydantic
+ollama
